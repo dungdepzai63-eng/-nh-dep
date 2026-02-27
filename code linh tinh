@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trang choi game</title>
+</head>
+<body>
+    <h1>Tro choi game</h1>
+    <p>Chao mung ban đen voi trang web choi game cua chung toi<p>
+        </p>O đay co rat nhieu tro choi thu vi va hap dan</P>
+        <the>Danh sach tro choi</the>
+    </the>
+        <ul> tro choi 1 </ul>
+        <ul> tro choi 2 </ul>
+        <uL> tro choi 3 </uL>
+           <p> hay chon tro choi ma ban yeu thich</p> 
+           <button> Choi ngay</button>
+           <img src = "htpps ://example .com/hinh anh game jpg alt = "hinh anh game " width  = "500 height = "300">
+           <head> Dang nhap </head>
+              <fencedframeame src = "htpps ://example.com .dang nhap html width = "400 height = "300" title = "dang nhap">
+                <strong> Dang nhap choi game </strong>
+                <input type = "text placeholder = "ten dang nhap">
+                <input type = "password placeholder = "mat khau">
+                <button type = "sumit"> dang nhap</button>
+                <picture
+                    <source media = "(max width : 600px srcset = "htpps ://exmple com /hinh anh game nho ipg">)"
+                    <head> dang ky </head>
+                    <fencedframeame src = "htpps ://example.comdangky html width = "400" height = "300 title = "dang ky">
+                        <strong> dang ky choi game</strong>
+                        <input type = "text placeholder = "ten dang ky">
+                        <input type = "email placeholder = "email">
+                        <input type = "password placeholder = "mat khau">
+                        <colgroup
+                             <col span = "2" style = "background color : lightgray ">"
+                             <col span = "1" style = "background color : lightblue ">"
+                            <menu
+                                <li> dieu khoan su dung</li>
+                                <li> chinh sach bao mat </li>
+                                <li> lien he </li>
+                            <source game tro choi
+                        end 
+                            <footer
+                                <param name = "ten game value = "tro choi vui">
+                                <param name = "nha phat hanh game value = "cong ty game">
+                                <param name = "nam phat hanh game value = "2026">
+                            
+
+</body>
+</html>
